@@ -4,6 +4,12 @@
 page:
   siteTitle: ikew
 
+  headHtml: |
+    <snippet var="js.highlightjs" />
+    <with var="js">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/powershell.min.js" integrity="sha512-J5RVPDNPGNQPjzhjtYPsrLHTX/7GPhPU1AvmyCo/hjKWBecwfX6ByD0oG/NAS5VU3hwk8A/DVVxjXm4ZEBJwhg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/bash.min.js" integrity="sha512-nQ9BQEzuov+Ry6EIH8ve7VKKdOG91Ix3SAQcFmOiBR5qG8sJONrph1InWTJOGjfP5QkSTSy4VnkEsPMoFYRsUQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    </with>
 template:
   theme: red
 
