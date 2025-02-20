@@ -15,7 +15,7 @@
 #default-title = "Untitled"
 
 # Template used to generate a note's filename, without extension.
-filename = "{{format-date now 'timestamp' }}"
+filename = "{{format-date now '%Y%m%d%H%M%S' }}"
 
 # The file extension used for the notes.
 #extension = "md"
@@ -103,7 +103,7 @@ multiword-tags = false
 
 # Default editor used to open notes. When not set, the EDITOR or VISUAL
 # environment variables are used.
-#editor = "vim"
+editor = "nvim"
 
 # Pager used to scroll through long output. If you want to disable paging
 # altogether, set it to an empty string "".
