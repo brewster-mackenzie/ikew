@@ -13,7 +13,7 @@ page:
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/vim.min.js" integrity="sha512-JqKeP6e4t/v/KY2udI+uNEYCBaDD2e71LaoqWG8xcBR1kCpj+rLeEnKRbr9pTZlYB9H3pkxjXGf7sfVArwOOag==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     </with>
 template:
-  theme: red
+  theme: blue
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
