@@ -1,2 +1,2 @@
-# ikew digital garden🌱
+# ikew 🌱
 
