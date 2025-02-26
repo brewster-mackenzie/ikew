@@ -1,14 +1,11 @@
-# Restore a Docker volume from a local tar file
+# Backup a Docker volume to a local tar file
 
-Use a temporary container to restore files from a local tar file into a Docker volume
-
-Works with backups created by following:
-[[20250220122515]]
+Use a temporary container to backup data from a Docker volume to a local tar file
 
 ```bash
 docker run --rm \
 -v <volume>:/data -v $(pwd):/backup \
-ubuntu tar xvf /backup/backup.tar -C /data --strip 1
+ubuntu tar cvf /backup/backup.tar /data
 ```
 
 - the `--rm` switch will clean up the container when the command completes
@@ -20,5 +17,7 @@ ubuntu tar xvf /backup/backup.tar -C /data --strip 1
 ```bash
 docker run --rm \
 -v paperless_media:/data -v $(pwd):/backup \
-ubuntu tar xvf /backup/backup.tar -C /data --strip 1
+ubuntu tar cvf /backup/backup.tar /data
 ```
+
+Restore the backup by following: [[restore-a-docker-volume-from-a-local-tar-file]]

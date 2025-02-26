@@ -1,7 +1,7 @@
 # Banana cupcakes
 
 A recipe for banana cupcakes.  I used this recipe for Scrunch's 1st birthday in 2024. 
-Serve with icing as per the original recipe or use a topping of your choice.  I used my favourite [[20250223100133]].
+Serve with icing as per the original recipe or use a topping of your choice.  I used my favourite [[cream-cheese-frosting]].
 
 ## Ingredients
 
@@ -26,7 +26,7 @@ Serve with icing as per the original recipe or use a topping of your choice.  I 
 - fill each cupcake case to about 2/3 full
 - bake for 15-20 minutes until risen and test with a skewer
 - transfer to a wire cooling rack
-- optionally, serve with [[20250223100133]]
+- optionally, serve with [[cream-cheese-frosting]]
 
 -----
 ### References

@@ -6,5 +6,5 @@
 New-Item $env:TEMP\MyFolderName -ItemType Directory
 ```
 
-See also [[20250220132458]]
+See also [[create-a-random-temporary-folder]]
 

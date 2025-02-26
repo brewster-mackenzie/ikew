@@ -2,8 +2,8 @@
 
 Mounting a VSS shadow volume to a folder in the local filesystem requires the following steps
 
-1. [[20250220140141|Find the VSS volume]] based on the volume ID
-2. [[20250220140658|Create a symbolic link]] to the volume's `DeviceObject` in order to access the volume
+1. [[find-a-vss-volume-by-its-id|Find the VSS volume]] based on the volume ID
+2. [[create-a-symbolic-link|Create a symbolic link]] to the volume's `DeviceObject` in order to access the volume
 
 ## Examples
 
@@ -13,7 +13,7 @@ Provided is an example PowerShell function to mount a VSS shadow volume given it
 
 #### Requirements
 
-This example uses the function [[20250220140141|Get-VssShadowVolume]]
+This example uses the function [[find-a-vss-volume-by-its-id|Get-VssShadowVolume]]
 
 #### Arguments
 

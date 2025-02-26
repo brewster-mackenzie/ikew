@@ -4,7 +4,7 @@ Mount a CIFS/Samba share in Linux with read & write permissions
 
 ## Prerequisites
 
-[[20250220123903|cifs-utils]]
+[[install-the-cifs-utils-package|cifs-utils]]
 
 ## Credentials
 
