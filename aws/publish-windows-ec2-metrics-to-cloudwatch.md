@@ -1,6 +1,6 @@
-# Public Windows EC2 metrics to CloudWatch
+# Publish Windows EC2 metrics to CloudWatch
 
-Ensure that [[install-cloudwatchagent]] on the instance.
+Ensure that [[install-cloudwatchagent|CloudWatch Agent is installed]] on the instance.
 
 Apply the following configuration to collection disk & memory info.  The CPU metrics are provided by default and require no additional configuration.
 
