@@ -4,7 +4,7 @@ Ensure that [[install-mason-in-neovim|Mason is installed first.]]
 
 Then install `powershell-editor-services`
 
-```
+```vim
 :MasonInstall powershell-editor-services
 ```
 

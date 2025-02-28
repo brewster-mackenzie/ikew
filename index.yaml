@@ -11,9 +11,13 @@ page:
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/bash.min.js" integrity="sha512-nQ9BQEzuov+Ry6EIH8ve7VKKdOG91Ix3SAQcFmOiBR5qG8sJONrph1InWTJOGjfP5QkSTSy4VnkEsPMoFYRsUQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/latex.min.js" integrity="sha512-4h3uWtv1iEA4sgWqZ1is70GnmESsRzCRaGTyeajS/8Zq0CGWVCCRTrpEw5mJ57vF9LIfwNwCMNeV6IjGytrhrA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/vim.min.js" integrity="sha512-JqKeP6e4t/v/KY2udI+uNEYCBaDD2e71LaoqWG8xcBR1kCpj+rLeEnKRbr9pTZlYB9H3pkxjXGf7sfVArwOOag==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/vim.min.js" integrity="sha512-JqKeP6e4t/v/KY2udI+uNEYCBaDD2e71LaoqWG8xcBR1kCpj+rLeEnKRbr9pTZlYB9H3pkxjXGf7sfVArwOOag==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/es/languages/lua.min.js" integrity="sha512-r6iw+xdF08kV8njifVUhH2/BeKoKaE5QQ/dX59hmXhJdXGxaDJkZsOD8Z+E3wfMKYhTD3KYZ2eLN5h5Az7S8cg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/es/languages/sql.min.js" integrity="sha512-t45s4rF4Ws/fFNkZkGZax0dHQMpKkmtTfSUmhedTKl6KbyTl75bW2ehYV3YWgztl1Q5Q02F27h6vhcAg3YtN7g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/nginx.min.js" integrity="sha512-kvYzE8uXJNOxB79FbRApSqfjbo7ngD2ulfLeAS5yrDpVL2vpgsw8FhM/N77/xstE183jysYBacXAOrZtgQWW/A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     </with>
 template:
-  theme: blue
+  theme: green
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
