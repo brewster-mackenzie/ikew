@@ -1,4 +1,5 @@
-# Assume an IAM role in AWS
+# Assume an IAM role in aws
+
 
 It is necessary to assume an IAM role in order to perform role restricted actions in AWS.
 
@@ -19,3 +20,5 @@ $Role = Use-STSRole -RoleArn $RoleARN -RoleSessionName $SessionName
 Set-AWSCredential -Credential $Role.Credentials -Scope Global
 ```
 
+---
+#aws #iam #powershell #bash 

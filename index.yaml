@@ -21,7 +21,7 @@ template:
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://github.com/brewster-mackenze/ikew/edit/main
+  editBaseUrl: https://github.com/brewster-mackenzie/ikew/edit/main
 
   # Uncomment this to get neuron-style pages
   # name: /templates/layouts/note

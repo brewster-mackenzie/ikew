@@ -1,5 +1,7 @@
 # Report on EC2 instances
 
+#aws #ec2 #powershell
+
 Use PowerShell to generate a CSV report of all EC2 instances in the given region, with the instance ARN, account ID and other properties.
 
 Replace `$region` in the script to select the region for which the report should be generated.

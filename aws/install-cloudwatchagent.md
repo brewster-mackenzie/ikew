@@ -1,5 +1,7 @@
 # Install CloudWatch Agent
 
+#aws #cloudwatch #bash #powershell #msiexec
+
 Amazon Linux:
 
 ```bash
