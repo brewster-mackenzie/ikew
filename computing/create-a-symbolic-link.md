@@ -4,7 +4,7 @@
 
 
 ```bash
-ln -s <target> <source>
+ln -s <target> <link-name>
 ```
 
 ## Windows
