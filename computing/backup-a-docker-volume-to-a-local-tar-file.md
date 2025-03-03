@@ -1,5 +1,9 @@
 # Backup a Docker volume to a local tar file
 
+#docker #backup #tar #bash
+
+-----
+
 Use a temporary container to backup data from a Docker volume to a local tar file
 
 ```bash

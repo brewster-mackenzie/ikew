@@ -1,5 +1,9 @@
 # Assume an IAM role in aws
 
+#aws #iam #security #bash #powershell 
+
+-----
+
 
 It is necessary to assume an IAM role in order to perform role restricted actions in AWS.
 

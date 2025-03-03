@@ -1,5 +1,9 @@
 # Add SSO login button to Jellyfin
 
+#jellyfin #self-hosting #sso 
+
+------
+
 In settings add a login disclaimer using the HTML below
 
 Change the server URL and provider as required.

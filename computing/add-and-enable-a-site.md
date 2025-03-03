@@ -1,5 +1,9 @@
 # Add and enable a site
 
+#nginx #hosting #self-hosting #ssl
+
+-----
+
 Copy the site configuration to the available sites folder
 
 ```bash

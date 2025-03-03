@@ -34,4 +34,14 @@
   .header-font {
     font-family: 'NotoSans-Bold', sans-serif !important
   }
+
+  h1 a:hover,
+  h2 a:hover,
+  h3 a:hover,
+  h4 a:hover,
+  h5 a:hover,
+  h6 a:hover,
+  header a:hover {
+    text-decoration: none !important;
+  }
 </style>

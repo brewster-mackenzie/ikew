@@ -1,5 +1,9 @@
 # Compute the hash value of a string
 
+#cryptography #md5 #sha #powershell 
+
+-----
+
 Snippets to assist with computing the hash value of a string.
 
 ## PowerShell

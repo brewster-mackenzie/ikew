@@ -1,5 +1,9 @@
 # Convert 3D to 2D in an isometric projection
 
+#maths #games #isometric #c #csharp #javascript
+
+-----
+
 The simplified calculation to transform a 3D point to 2D in an isometric project is:
 
 ```latex

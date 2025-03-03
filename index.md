@@ -1,2 +1,8 @@
-# ikew 🌱
+# ikew
+
+## [[computing]]
+
+## [[recipes]]
+
+## [[learning]]
 
