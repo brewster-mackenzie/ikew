@@ -1,6 +1,6 @@
 # Get ports currently in use
 
-#powershell #networking
+#powershell #networking #netstat #ss
 
 -----
 
@@ -17,7 +17,23 @@ $usedPorts = (Get-NetTCPConnection | Select-Object -ExpandProperty LocalPort) +
 
 ## Linux
 
-Using netstat (includes program name via `-p` switch)
+### `ss`
+
+```bash
+ss -lntup
+```
+
+- `-l` to get listening ports 
+- `-n` to get port number without resolving service name
+- `-t` to include TCP 
+- `-u` to include UDP 
+- `-p` to include the program name
+
+
+### `netstat`
+
+> [!warning] Deprecated
+> This approach is deprecated in favour of using `ss` 
 
 ```bash 
 netstat -lntup
