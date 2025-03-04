@@ -122,7 +122,7 @@ function Get-DataFromApi ($Path, $ResponseType) {
   $res = Invoke-WebRequest -Uri "https://my.test/api/$Path" -Method GET -ContentType application/json
 
   # Create an instance of the serializer using this response type
-  $inst = [Type]"NIController.JsonSerializer[$ResponseType]"
+  $inst = [Type]"JsonSerializer[$ResponseType]"
   
   # Deserialize 
   $inst::Deserialize($res.Content)
