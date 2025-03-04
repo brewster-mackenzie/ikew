@@ -1,5 +1,9 @@
 # Source notes
 
+#learning #pkm #zettelkasten
+
+-----
+
 Source notes in the   exist to capture information and ideas in real-time.
 
 They are the first step in compiling a [[zettelkasten]] and can be roughly divided into two categories:
