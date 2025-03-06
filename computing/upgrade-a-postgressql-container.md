@@ -1,5 +1,9 @@
 # Upgrade a PostgresSQL container
 
+#postgres #docker #sql 
+
+-----
+
 ## Export the current data
 
 Stop the stack and any containers that depend on the database

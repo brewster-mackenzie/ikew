@@ -5,6 +5,7 @@ page:
   siteTitle: ikew
 
   headHtml: |
+    <snippet var="js.mathjax" />
     <snippet var="js.highlightjs" />
     <with var="js">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/powershell.min.js" integrity="sha512-J5RVPDNPGNQPjzhjtYPsrLHTX/7GPhPU1AvmyCo/hjKWBecwfX6ByD0oG/NAS5VU3hwk8A/DVVxjXm4ZEBJwhg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -30,6 +31,7 @@ template:
   #     containerClass: container mx-auto max-w-screen-lg
 
   sidebar:
+    folders-first: true
     collapsed: true
 
   # If you are hosting on GitLab Pages, you may want to remove this.

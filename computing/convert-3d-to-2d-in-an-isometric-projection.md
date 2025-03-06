@@ -6,19 +6,11 @@
 
 The simplified calculation to transform a 3D point to 2D in an isometric project is:
 
-```latex
-\begin{pmatrix}
-x' \\
-y'
-\end{pmatrix}
-=
-\left( \begin{array}{c}
-x - z \\
-\frac{x}{2} + \frac{z}{2} - y
-\end{array} \right)
-```
 
-Which can be expressed as:
+$$\begin{bmatrix}x' \\y'\end{bmatrix}=\begin{bmatrix}x - z \\\frac{x}{2} + \frac{z}{2} - y\end{bmatrix}$$
+
+
+Which is represented in code as:
 
 ```c
 (x - z, x / 2 + z / 2 - y)

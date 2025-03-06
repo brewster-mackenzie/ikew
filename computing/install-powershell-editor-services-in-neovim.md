@@ -1,5 +1,9 @@
 # Install PowerShell editor services in NeoVim
 
+#neovim #powershell #lsp #mason
+
+-----
+
 Ensure that [[install-mason-in-neovim|Mason is installed first.]]
 
 Then install `powershell-editor-services`

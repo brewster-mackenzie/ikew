@@ -1,5 +1,9 @@
 # Managing dotfiles with Git
 
+#git #dotfiles
+
+-----
+
 Instructions for managing your dotfiles with Git.  Works in Linux and Windows.
 
 
