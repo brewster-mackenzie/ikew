@@ -40,6 +40,12 @@ The only prerequisite is a good background in algebra.
 
 [[mathematical-sets]]
 
+[[ordered-n-tuples]]
+
 [[real-numbers]]
 
 [[polynomials]]
+
+[[cartesian-products]]
+
+[[strings]]
