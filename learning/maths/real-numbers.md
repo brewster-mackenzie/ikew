@@ -20,7 +20,7 @@ $$(...,-2,-1,0,1,2,...)$$
 
 Real numbers include **rational numbers**, e.g. *-17* or *3/5*
 
-And **irrational numbers**, e.g. *\sqrt 2*
+And **irrational numbers**, e.g. $$\sqrt 2$$
 
 The real numbers form an ordered field.  The methods of elementary arithetic apply to them. 
 
