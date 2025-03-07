@@ -37,3 +37,7 @@ The only prerequisite is a good background in algebra.
 [[kinds-of-mathematical-statements]]
 
 [[mathematical-sets]]
+
+[[real-numbers]]
+
+[[polynomials]]
