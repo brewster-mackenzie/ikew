@@ -1,5 +1,9 @@
 # Classic shortbread
 
+#baking #sweet 
+
+-----
+
 ![[classic-shortbread.jpg]]
 
 Shortbread evolved from medieval biscuit bread, where leftover bread dough was baked as the oven lost its heat. In time, yeast was replaced by butter, and biscuit bread became shortbread

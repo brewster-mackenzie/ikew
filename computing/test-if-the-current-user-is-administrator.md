@@ -1,5 +1,9 @@
 # Test if the current user is Administrator
 
+#powershell #security 
+
+-----
+
 ## PowerShell
 
 ```powershell

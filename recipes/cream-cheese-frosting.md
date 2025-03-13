@@ -1,5 +1,9 @@
 # Cream cheese frosting
 
+#baking #sweet #icing 
+
+-----
+
 A delicious cream cheese frosting.  Recommended as a topping for Recipe for [[date-and-walnut-cake]].
 
 **Preparation time:** 5 mins

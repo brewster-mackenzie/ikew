@@ -1,5 +1,9 @@
 # Date and walnut cake
 
+#baking #cake #date #walnut 
+
+-----
+
 A delicious date and walnut cake, inspired by Burglar Bill and adapted from a recipe on BBC Good Food.  Fill and top the cake with Recipe for [[cream-cheese-frosting]]
 
 **Preparation time:** 30 mins

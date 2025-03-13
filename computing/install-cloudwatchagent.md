@@ -2,6 +2,8 @@
 
 #aws #cloudwatch #bash #powershell #msiexec
 
+-----
+
 Amazon Linux:
 
 ```bash

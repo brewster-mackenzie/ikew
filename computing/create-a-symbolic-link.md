@@ -1,5 +1,9 @@
 # Create a symbolic link
 
+#filesystem #io #windows #linux
+
+-----
+
 ## Linux
 
 

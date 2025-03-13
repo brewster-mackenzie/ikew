@@ -1,5 +1,9 @@
 # Italian-style courgette soup
 
+#cooking #savoury #soup 
+
+-----
+
 ![[courgette-soup.jpg]]
 
 This is the best courgette soup recipe when you've got a glut.  A creamy soup that's full of contrasting textures and flavours.

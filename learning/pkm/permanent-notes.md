@@ -1,5 +1,9 @@
 # Permanent notes
 
+#zettelkasten #pkm 
+
+-----
+
 Permanent notes in the  encapsulate a single idea, written in your own words. 
 
 Principles of permanent notes:

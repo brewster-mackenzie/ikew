@@ -1,5 +1,9 @@
 # Delete the current file using Neovim
 
+#neovim 
+
+-----
+
 
 Using the current file `%` register 
 

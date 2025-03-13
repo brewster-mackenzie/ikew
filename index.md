@@ -1,8 +1,1 @@
 # ikew
-
-## [[computing]]
-
-## [[recipes]]
-
-## [[learning]]
-

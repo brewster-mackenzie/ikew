@@ -1,5 +1,9 @@
 # Install Mason in NeoVim
 
+#neovim #lsp #mason 
+
+-----
+
 Ensure the following packages are loaded using the package manager of your choice:
 
 ```

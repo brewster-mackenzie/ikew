@@ -2,6 +2,8 @@
 
 #aws #vpc #security #powershell
 
+-----
+
 Use PowerShell to generate a CSV report of all AWS security groups and rules in the given regions.
 
 Replace `$regions` in the script to select which regions should be included.

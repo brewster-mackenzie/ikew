@@ -1,5 +1,9 @@
 # Generate a SQL Server login audit report
 
+#mssql #security 
+
+-----
+
 Use PowerShell to generate report of current SQL login mappings and failed logins, which are helpful reports for auditing SQL access.
 
 Set the `$server` variable to the name of your SQL server instance.

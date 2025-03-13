@@ -1,5 +1,9 @@
 # Improvised chicken and asparagus fricasée
 
+#cooking #savoury #chicken #asparagus 
+
+-----
+
 A for improvised chicken and asparagus fricasee style sauce that I concocted on 3rd June 2022 using some fresh chicken and leftover vegetables.
 
 **Preparation time:** 20m

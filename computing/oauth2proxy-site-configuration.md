@@ -1,5 +1,9 @@
 # OAuth2Proxy site configuration
 
+#selfhosting #oauth2 #oauth2proxy #sso 
+
+-----
+
 Firstly, create a site for the oauth2proxy server, e.g.:
 
 ```nginx

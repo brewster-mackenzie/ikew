@@ -1,4 +1,8 @@
-# Determine the SQL Server version
+# Determine the MS SQL Server version
+
+#mssql #powershell 
+
+-----
 
 Using a SQL command:
 

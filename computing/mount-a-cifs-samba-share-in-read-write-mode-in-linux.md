@@ -1,5 +1,9 @@
 # Mount a CIFS/Samba share in read-write mode in Linux
 
+#cifs #samba #linux #filesystem  
+
+-----
+
 Mount a CIFS/Samba share in Linux with read & write permissions
 
 ## Prerequisites

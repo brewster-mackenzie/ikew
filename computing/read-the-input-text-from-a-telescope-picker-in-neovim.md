@@ -1,7 +1,7 @@
 # Read the input text from a Telescope picker in NeoVim
 
------
 #neovim #telescope
+
 -----
 
 To read the text typed by the user in the current Telescope picker, 

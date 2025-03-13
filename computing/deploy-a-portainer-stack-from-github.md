@@ -1,5 +1,9 @@
 # Deploy a Portainer stack from GitHub
 
+#portainer #docker #selfhosting #git
+
+-----
+
 1. Login to Portainer 
 1. Select the target environment 
 1. Navigate to the Stacks section

@@ -1,5 +1,9 @@
 # Get locale-specific 'Yes' and 'No' strings
 
+#csharp #i18n
+
+-----
+
 Get the locale-specific 'Yes' and 'No' strings for the user's current language
 
 

@@ -1,5 +1,9 @@
 # Best ever chocolate brownies
 
+#baking #sweet #chocolate 
+
+-----
+
 ![[chocolate-brownies.jpg]]
 
 A super easy brownie recipe for a squidgy chocolate bake. Watch our foolproof recipe video to help you get a perfect traybake every time.

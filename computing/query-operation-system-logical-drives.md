@@ -1,5 +1,9 @@
 # Query operation system logical drives
 
+#io #filesystem #linux #windows  #bash #powershell
+
+-----
+
 ## Linux
 
 ### Bash

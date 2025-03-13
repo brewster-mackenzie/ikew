@@ -1,5 +1,9 @@
 # Read the contents of an INI file
 
+#ini #powershell 
+
+-----
+
 ## PowerShell
 
 Read an INI file and output a hash table representing its contents

@@ -1,5 +1,9 @@
 # Tokyo Night theme
 
+#theming #ui
+
+-----
+
 TODO: add full palette 
 
 

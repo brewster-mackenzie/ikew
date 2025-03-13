@@ -1,5 +1,9 @@
 # Create a VSS shadow volume
 
+#vss #io #backup #powershell 
+
+-----
+
 Create a VSS shadow volume by invoking the `Create` method on the Win32_ShadowCopy class, with these arguments:
 
 `DriveName` the drive for which the shadow volume should be created, e.g. `c:\`

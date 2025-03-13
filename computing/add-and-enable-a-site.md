@@ -1,4 +1,4 @@
-# Add and enable a site
+# Add and enable a site in Nginx
 
 #nginx #hosting #self-hosting #ssl
 

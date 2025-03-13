@@ -2,6 +2,8 @@
 
 #aws #inspector #cve #security #powershell
 
+-----
+
 Use PowerShell to generate a CSV report of all active AWS Inspector vulnerabilities.  
 
 Modify the `$reports` variable to include one or more report to generate, replacing the `vpcId`, `bucketName` and `kmsKeyArn` as required.

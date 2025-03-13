@@ -1,5 +1,9 @@
 # Migrate Paperless-ngx to a new Docker container
 
+#paperless #selfhosting #backup 
+
+-----
+
 Connect to the container terminal
 
 ```bash

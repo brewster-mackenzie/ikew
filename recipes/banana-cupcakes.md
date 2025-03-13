@@ -1,5 +1,9 @@
 # Banana cupcakes
 
+#baking #sweet #cake #banana 
+
+-----
+
 A recipe for banana cupcakes.  I used this recipe for Scrunch's 1st birthday in 2024. 
 Serve with icing as per the original recipe or use a topping of your choice.  I used my favourite [[cream-cheese-frosting]].
 

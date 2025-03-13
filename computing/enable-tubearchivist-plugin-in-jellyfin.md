@@ -1,5 +1,7 @@
 # Enable TubeArchivist plugin in Jellyfin
 
+#selfhosting #jellyfin #tubearchivist 
+
 The plugin was included by default in my version, but you can import it as a custom plugin if required.
 
 ```

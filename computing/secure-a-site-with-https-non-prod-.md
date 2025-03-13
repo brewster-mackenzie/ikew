@@ -1,5 +1,11 @@
 # Secure a site with HTTPS (non-prod)
 
+#selfhosting #web #security 
+
+-----
+
+> [!warning] NON-PRODUCTION USE ONLY
+
 The simplest method to ensure that the necessary headers etc. are added to the nginx configuration and that a valid certificate exists is to use CertBot.
 
 Install as follows:

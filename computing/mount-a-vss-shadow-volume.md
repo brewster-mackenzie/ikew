@@ -1,5 +1,9 @@
 # Mount a VSS shadow volume
 
+#vss #filesystem #backup #powershell 
+
+-----
+
 Mounting a VSS shadow volume to a folder in the local filesystem requires the following steps
 
 1. [[find-a-vss-volume-by-its-id|Find the VSS volume]] based on the volume ID

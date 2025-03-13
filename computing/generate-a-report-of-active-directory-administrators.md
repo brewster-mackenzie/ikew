@@ -1,5 +1,9 @@
 # Generate a report of Active Directory administrators
 
+#windows #activedirectory #security 
+
+-----
+
 Modify the list of `$groups` in this PowerShell script, then run it and check the output in `AD-Admins-Report.csv`
 
 ```powershell

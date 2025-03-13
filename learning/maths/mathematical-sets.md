@@ -98,7 +98,9 @@ Some sets are common enough to have special symbolic names.
 
 | Symbol | Set |
 | ------ | --- |
-| $R$[[discrete-mathematics-with-applications-epp-| | the set of all real numbers || $Z$ | the set of all integers || $Q$ ]]| the set of all rational numbers, or quotients of integers |
+| $R$ | the set of all real numbers |
+| $Z$ | the set of all integers |
+| $Q$ | the set of all rational numbers, or quotients of integers |
 
 
 Additional superscript:

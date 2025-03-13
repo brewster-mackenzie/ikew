@@ -1,5 +1,9 @@
 # Integrate neovim status into the tmux statusline
 
+#neovim #tmux 
+
+-----
+
 To achieve this I use `vim-tpipeline`, a vim plugin that just so happens to work in neovim too.
 
 Add this to `~/.config/nvim/init.lua` or another Lua script

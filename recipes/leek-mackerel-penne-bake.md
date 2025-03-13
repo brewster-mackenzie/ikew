@@ -1,5 +1,9 @@
 # Leek & mackerel penne bake
 
+#cooking #savoury #mackerel 
+
+-----
+
 ![[leek-mackerel-bake.jpg]]
 
 This is a super-fast, filling meal for busy midweek winter nights - it's great with smoked haddock too

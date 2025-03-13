@@ -1,5 +1,9 @@
 # Potsticker dipping sauce
 
+#cooking #savoury #chinese #dumpling  
+
+-----
+
 A basic soy sauce & chilli dip for pot-sticker dumplings.
 
 **Preparation time:** 5 mins 

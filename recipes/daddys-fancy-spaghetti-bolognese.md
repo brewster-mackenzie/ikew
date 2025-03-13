@@ -1,5 +1,9 @@
 # Daddy's fancy spaghetti Bolognese
 
+#cooking #savoury
+
+-----
+
 A simple yet tasty Bolognese sauce (sort of) that went down well with Felix.  Allow a long time to reduce the sauce down.  The trick is to finely chop the vegetables and garlic.
 
 **Preparation Time:** 30m
