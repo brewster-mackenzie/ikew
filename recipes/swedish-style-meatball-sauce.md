@@ -11,7 +11,7 @@
 
 - 30g butter
 - 300-400ml milk
-- 3 tbsp sauce
+- 3 tbsp dark soy sauce
 - 2 tbsp flour
 
 ## Method
