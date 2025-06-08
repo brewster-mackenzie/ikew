@@ -1,5 +1,7 @@
 # Mississippi mud pie
 
+#recipe #pudding #sweet #chocolate
+
 ## Ingredients
 
 ### For the base
