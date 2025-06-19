@@ -30,7 +30,7 @@ The proxy header `X-Auth-User` can be changed to use whichever header is require
 
 ```nginx
 server {
-    server_name media.domain.com;
+    server_name auth.domain.com;
 
     root /var/www/html;
 
